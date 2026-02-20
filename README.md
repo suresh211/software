@@ -34,8 +34,6 @@ EcoConnect is a web-based sustainable lifestyle platform designed to encourage i
 
 ## 📂 Repository Structure
 - `docs/` – Academic reports and documentation (Stage 1 & Stage 2)
-- `diagrams/` – Wireframes, flow diagrams, architecture visuals
-- `trello/` – Trello board screenshots and evidence
 - `README.md` – Project overview and guidance
 
 ---
