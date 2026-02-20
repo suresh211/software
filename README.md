@@ -57,8 +57,7 @@ This repository supports coursework submission and demonstrates the application 
 ---
 
 ## 🔗 Links
-- Trello Board: *(QR code / link provided in appendix)*
-- Deployment (if applicable): *(Vercel link)*
+- Trello Board: *https://trello.com/b/nRSaQreW/ecoconnect*
 
 ---
 
